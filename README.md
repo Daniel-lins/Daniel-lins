@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Daniel-lins/Daniel-lins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Olá meu nome é Daniel.
 
