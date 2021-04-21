@@ -1,9 +1,12 @@
-
-Olá meu nome é Daniel, Sou programador front end.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-lins)](https://github.com/anuraghazra/github-readme-stats)
+<h1> hi, my name is Daniel Lins </h1> 
 
 
+Front-End Developer
+
+
+<a href="https://www.linkedin.com/in/daniel-lins-6a554a1a0/"  target="_blank" >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 
 ## 🛠  Tecnologias e Ferrametas
@@ -15,6 +18,9 @@ Olá meu nome é Daniel, Sou programador front end.
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
  </div>
+ 
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-lins)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 Here are some ideas to get you started:
 
