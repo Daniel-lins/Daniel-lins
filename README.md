@@ -10,17 +10,20 @@ Front-End Developer
 
 
 ## 🛠  Technology & Tools
-<div class="icons">
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
- </div>
- 
- 
+ <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+</p>
+ <div align="center"> 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-lins)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 <!-- 
 Here are some ideas to get you started:
 
