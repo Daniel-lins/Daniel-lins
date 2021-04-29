@@ -21,9 +21,12 @@ Front-End Developer
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
 </p>
- <div align="center"> 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-lins)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Daniel-lins&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lins&hide=css,java,html&theme=tokyonight">
+</p>
+
 <!-- 
 Here are some ideas to get you started:
 
