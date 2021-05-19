@@ -27,6 +27,8 @@ Front-End Developer
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lins&hide=css,java,html&theme=tokyonight">
 </p>
 
+<p>" Se sentir que chegou ao seu limite, lembre-se do motivo pelo qual você cerra os punhos, lembre-se porque resolveu trilhar este caminho e permita que essa memória o carregue além de seus limites." - All Might </p>
+
 <!-- 
 Here are some ideas to get you started:
 
