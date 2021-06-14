@@ -4,10 +4,11 @@
 Front-End Developer
 
 
-<a href="https://www.linkedin.com/in/daniel-lins-6a554a1a0/"  target="_blank" >
+📫 How to find me:<a href="https://www.linkedin.com/in/daniel-lins-6a554a1a0/"  target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<p>I'm Daniel Lins, i'm study analyze and develop systems, 2ª period</p>
+🌱 I’m currently learning : React and Angular
 
 ## 🛠  Technology & Tools
 <p align="center">
