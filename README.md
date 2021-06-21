@@ -1,14 +1,22 @@
-<h1> Hi, my name is Daniel Lins </h1> 
+# Hi 👋 </h1> 
 
 
 Front-End Developer
 
 
-📫 How to find me:<a href="https://www.linkedin.com/in/daniel-lins-6a554a1a0/"  target="_blank" >
+📫 Você pode me encontrar:<a href="https://www.linkedin.com/in/daniel-lins-6a554a1a0/"  target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<p>I'm Daniel Lins, i'm study analyze and develop systems, 2ª period</p>
-🌱 I’m currently learning : React and Angular
+<p> Eu sou Daniel Lins,  estudante de Analise e desenvolvimento de sistemas 2ª periodo . </p>
+<p> 
+🌱 Atualmente estou aprendendo : React and Angular
+  
+  
+ #### Atualmente estou em busca de uma oportunidade de emprego para desenvolvimento Frontend Jr.
+
+
+
+
 
 ## 🛠  Technology & Tools
 <p align="center">
@@ -22,12 +30,17 @@ Front-End Developer
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 </p>
 
+
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Daniel-lins&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lins&hide=css,java,html&theme=tokyonight">
 </p>
+
+  <p>"Não importa se você ganhou ou perdeu, você precisa olhar para trás, refletir sobre essa experiência e seguir em frente com sua vida."
+- All Might.</p>
+
 <!-- 
-<p>" Se sentir que chegou ao seu limite, lembre-se do motivo pelo qual você cerra os punhos, lembre-se porque resolveu trilhar este caminho e permita que essa memória o carregue além de seus limites." - All Might </p>*/
+<p>" Se sentir que chegou ao seu limite, lembre-se do motivo pelo qual você cerra os punhos, lembre-se porque resolveu trilhar este caminho e permita que essa memória o carregue além de seus limites." - All Might </p>
 
 
 Here are some ideas to get you started:
