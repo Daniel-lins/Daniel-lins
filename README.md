@@ -9,7 +9,7 @@ Front-End Developer
 </a>
 <p> Eu sou Daniel Lins,  estudante de Analise e desenvolvimento de sistemas 2ª periodo . </p>
 <p> 
-🌱 Atualmente estou aprendendo : React and Angular
+🌱 Atualmente estou aprendendo : React
   
   
  #### Atualmente estou em busca de uma oportunidade de emprego para desenvolvimento Frontend Jr.
