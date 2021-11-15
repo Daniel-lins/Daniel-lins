@@ -12,7 +12,6 @@ Front-End Developer
 🌱 Atualmente estou aprendendo : React
   
   
- #### Atualmente estou em busca de uma oportunidade de emprego para desenvolvimento Frontend Jr ou estágio.
 
 
 
