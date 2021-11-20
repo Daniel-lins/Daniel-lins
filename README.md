@@ -35,8 +35,6 @@ Front-End Developer
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-lins&hide=css,java,html&theme=tokyonight">
 </p>
 
-  <p>"Não importa se você ganhou ou perdeu, você precisa olhar para trás, refletir sobre essa experiência e seguir em frente com sua vida."
-- All Might.</p>
 
 <!-- 
 <p>" Se sentir que chegou ao seu limite, lembre-se do motivo pelo qual você cerra os punhos, lembre-se porque resolveu trilhar este caminho e permita que essa memória o carregue além de seus limites." - All Might </p>
