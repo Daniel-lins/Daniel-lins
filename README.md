@@ -2,7 +2,7 @@
 
  <div align="center">
 <p>Front-End Developer</p>
-<p>I'm student of Systems Analysis and Development 2nd Period. </p>
+<p>I'm student of Systems Analysis and Development 3nd Period. </p>
 <p> 
 🌱  I’m currently learning ReactJs 
    </div>
