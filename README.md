@@ -4,7 +4,7 @@
 <p>Front-End Developer</p>
 <p>I'm student of Systems Analysis and Development 3nd Period. </p>
 <p> 
-🌱  I’m currently learning ReactJs 
+🌱  I’m currently learning Node js
    </div>
    
 ## Contact me
@@ -17,8 +17,11 @@
      </div>
 
 
-  
-  
+  <div align="center">
+  <sub> Made with 💖 by
+    <a href="https://github.com/daniel-lins">Daniel Lins
+  </sub>
+</div>
 
 
 
