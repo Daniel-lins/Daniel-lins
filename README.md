@@ -27,7 +27,7 @@
 
 
 
-## 🛠  Here some Technology i use
+#  🛠  Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://img.shields.io/badge/TypesScript-282C34?logo=typescript&logoColor=F7DF1E" alt="typescript logo" title="JavaScript" height="25" />
