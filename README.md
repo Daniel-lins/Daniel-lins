@@ -26,7 +26,7 @@
   </sub>
   
   
-   ![Snake animation](https://github.com/daniel-lins/daniel-lins/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
