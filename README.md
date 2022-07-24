@@ -1,15 +1,18 @@
 <h1 align="center" > Hi, i'm Daniel Lins  👋 </h1> 
 
- <div align="center">
+ <div align="left">
+ 
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71731815/180665750-1838f00a-6edb-46e4-9a9f-0fa84deb8762.gif" width="500" height="320" />
 <p>Front-End Developer</p>
 <p>I'm student of Systems Analysis and Development 3nd Period. </p>
 <p> 
 🌱  I’m currently learning Node js
    </div>
    
+   
 ## Contact me
 
- <div align="center">
+ <div>
  📫 How to reach me::<a href="https://www.linkedin.com/in/daniel-lins-6a554a1a0/"  target="_blank" >
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_lins?color=%231DA1F2&logo=Twitter&logoColor=1DA1F2&style=flat-square)](https://twitter.com/https://twitter.com/dev_lins)
@@ -21,6 +24,9 @@
   <sub> Made with 💖 by
     <a href="https://github.com/daniel-lins">Daniel Lins
   </sub>
+  
+  
+   ![Snake animation](https://github.com/daniel-lins/daniel-lins/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
